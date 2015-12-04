@@ -7,4 +7,4 @@ What do you do? Do you:
 
 [Seek Vegetables](./seek_veg/seek_veg.md)
 
-[Say, "Fuck it" and continue eating marshmallows](./fuck_it/fuck_it.md)
+[Say, "O Fuck it" and continue eating marshmallows](./fuck_it/fuck_it.md)
